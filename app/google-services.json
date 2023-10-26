@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297384846301",
+    "project_id": "vue-firebase-57352",
+    "storage_bucket": "vue-firebase-57352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297384846301:android:317315fb2da0caff71cc34",
+        "android_client_info": {
+          "package_name": "com.example.laundrydraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297384846301-d2v0r13ieagitv9ofbikl47434bdrmc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHo50Uo9M9Ee77A1J6TLRMKBcYoh6oDps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297384846301-d2v0r13ieagitv9ofbikl47434bdrmc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
